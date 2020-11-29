@@ -1,0 +1,46 @@
+
+.head{
+    display: flex;
+    width: fit-content;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    padding-top: 100px;
+    font-size: 35px;
+    margin:0 auto;
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+ .par{
+    padding: 0px 100px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+
+}
+.sec-1 {
+    width: 100%;
+}
+.sec-1 img{
+    width: 100%;
+}
+.links a{
+    text-decoration: none !important;
+    color: white;
+    background-color: rgb(0, 143, 150);
+    padding: 11px 17px;
+    border-radius: 5px;   
+    margin: 5px;
+}
+.links{
+widows: 100%;
+display: flex;
+flex-wrap: wrap;
+align-self: center;
+justify-content: center;
+ 
+}

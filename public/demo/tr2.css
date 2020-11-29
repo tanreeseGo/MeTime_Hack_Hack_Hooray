@@ -1,0 +1,14 @@
+.inline {
+    display: inline;
+    width: fit-content;
+    transform: translate(50%);
+    transition: transform 1s ease-in;
+}
+.hi{
+    transform: translateX(50%);
+    transition: transform 1s ease-in;
+}
+li{
+    transform: translateX(50%);
+    transition: transform 1s ease-in;
+}
